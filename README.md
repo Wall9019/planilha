@@ -76,7 +76,8 @@
         align="left" 
         margin="10" 
         width="80" 
-        src="https://avatars.githubusercontent.com/u/37452836?v=4"
+        src="https://github.com/Wall9019.png
+"
     />
     <p>&nbsp;&nbsp;&nbsp;Tesley Wallace Jakson<br>
     &nbsp;&nbsp;&nbsp;
